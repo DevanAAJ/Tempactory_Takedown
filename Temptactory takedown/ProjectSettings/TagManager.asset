@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Birb
   - Bounce
+  - Death
+  - Breakable
+  - Birbable
+  - Checkpoint
   layers:
   - Default
   - TransparentFX
